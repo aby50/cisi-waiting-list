@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CISI – AI That Helps Students Study</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f3f4f6;
+      color: #111827;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .container {
+      background: white;
+      padding: 2rem;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+      max-width: 400px;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>CISI – AI for Students</h1>
+    <p>
+      Instant academic help, built for cramming, school stress, and last-minute test survival.
+      Just type or snap your question — CISI has your back.
+    </p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvpDsuYm-_yEwGWJQJh0ERS7FkT45USANEkcX5nfhpLfyELA/viewform?embedded=true" allowfullscreen>Loading…</iframe>
+    <p style="margin-top: 1rem; font-size: 0.875rem; color: #6b7280;">
+      Coming soon. Stay tuned.
+    </p>
+  </div>
+</body>
+</html>
